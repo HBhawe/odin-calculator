@@ -1,0 +1,19 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#result,
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+input,
+button {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h2 {
+  text-align: center;
+}
